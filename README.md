@@ -1,10 +1,26 @@
-# Welcome to Chi's repo!! :з
-- 👋 Hi, I’m **@clemieclu**
-- 👀 I’m interested in **Video Games**
-- 🌱 I’m currently studying **Game Design & Interactive Media** at [UC Irvine](https://uci.edu/)
-- 📫 Send me an [email](nguyenyc@uci.edu)
+<div align="center"> 
 
-<!---
-clemieclu/clemieclu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to Chi's repo!
+  
+### Gamer by day / Dancer by night </div>
+
+## About Me
+- Class of **2024**
+- Studying **Game Design & Interactive Media** at [UC Irvine](https://uci.edu/)
+- **Production Officer** at Video Game Development Club at UC Irvine
+
+## Game Development
+All my game projects are posted on [itch.io profile](https://clemieclu.itch.io/)
+* **College Life: Corona Edition**
+  * Type: Club Project
+  * Timeline: 6 months
+	* Role: Co-Lead / Producer / Writer / Programer / Artist
+* **Shawarma: The CatPug**
+  * Type: Game Jam
+  * Timeline: 48 hours
+ 	* Role: Lead / Producer / Game Designer / Artist 
+
+## Contact me
+nguyenyc@uci.edu
+
+
