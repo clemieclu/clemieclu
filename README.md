@@ -4,6 +4,8 @@
   
 ### Gamer by day / Dancer by night </div>
 
+I like video games! Also, I like to dance.
+
 ## About Me
 - Class of **2024**
 - Studying **Game Design & Interactive Media** at [UC Irvine](https://uci.edu/)
